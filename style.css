@@ -81,3 +81,32 @@
     margin-top: 15px;
     margin-bottom: 15px;
 }
+.box{
+    width: 230px;
+    height: 280px;
+    box-shadow: 4px 4px 15px gray;
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+    color: white;
+
+}
+.icon{
+    width: 100px;
+    margin-bottom: 15px;
+    
+}
+.box-btn{
+    background-color: gray;
+    margin-top: 15px;
+}
+.box-title{
+    margin-bottom: 10px;
+}
+.service-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    background-image: url(./images/background.png),linear-gradient(#1f1e1e,#000);
+}
