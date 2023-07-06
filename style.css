@@ -110,3 +110,36 @@
     padding: 20px;
     background-image: url(./images/background.png),linear-gradient(#1f1e1e,#000);
 }
+.last-page{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(./images/background.png),linear-gradient(#131313,#000);
+    color: white;
+    padding: 15px;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 100px;
+
+}
+.first-line{
+    width: 20px;
+    justify-content: center;
+    margin: 15px;
+    list-style: none;
+    margin: 40px;
+    text-align: center;
+}
+.copyright{
+    padding: 15px;
+    text-align: center;
+    color: black;
+    size: 5px;
+    font-weight: bolder;
+}
+.suport{
+    padding: 5px;
+    text-align: center;
+    
+}
