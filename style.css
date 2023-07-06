@@ -27,3 +27,37 @@
 .li:hover{
     color: red;
 }
+.banner-img{
+    width: 300px;
+}
+.banner_container{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+    /*border: 2px solid gray;*/
+    background-image: url(./images/background.png),
+    linear-gradient(45deg,#121212,#000);
+    color: white;
+    justify-content: space-around;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.title{
+    font-size: 55px;
+    font-weight: bold;
+}
+.des{
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.btn{
+    padding: 10px 20px;
+    background-color: red;
+    border-radius: 10px;
+    color: white;
+    border: none;
+
+}
