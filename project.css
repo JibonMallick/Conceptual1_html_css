@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.menu-container{
+    background-color: rgb(32, 31, 31);
+    padding: 20px;
+    color: white;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.logo_photo{
+    width: 150px;
+}
+.menu{
+    display: flex;
+}
+.li{
+    margin-right: 20px;
+    padding: 5px;
+    font-size: 20px;
+    cursor: pointer;
+
+}
+.li:hover{
+    color: red;
+}
