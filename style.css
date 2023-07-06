@@ -61,3 +61,23 @@
     border: none;
 
 }
+.about-header{
+    text-align: center;
+    font-size: 30px;
+}
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.header-title{
+    color: #000;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.about-para{
+    font-size: 18 px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
